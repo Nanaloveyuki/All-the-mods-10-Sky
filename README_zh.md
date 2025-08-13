@@ -1,6 +1,8 @@
 # All-the-mods-10-Sky
 
 **请注意!汉化来自于宁娜和i18n汉化组等, 不保证汉化的准确性和完整性**
+**本仓库内Kubejs的代码属于Allthemods团队, 本仓库仅作汉化, 侵权请使用Issues反馈, 我将删除相关代码**
+
 
 > 宁娜汉化: 版本 Allthemods 10 To Sky beta 5
 > i18n汉化组: 通用(来自宁娜汉化beta 5内的压缩包)
